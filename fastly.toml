@@ -6,6 +6,7 @@ description = "Enables Fanout on a service, forwarding to a backend."
 language = "javascript"
 manifest_version = 3
 name = "Fanout forwarding starter kit for JavaScript"
+service_id = "topTlifAaZWVJl3eHHz7o2"
 
 [scripts]
 build = "npm run build"
